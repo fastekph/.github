@@ -1,4 +1,4 @@
-<img src="./../.assets/FASTEK_LANDSCAPE.png" width="50%"><img src="./../.assets/ONEPAY_LANDSCAPE.png" width="50%">
+<img src="https://github.com/fastekph/.github/blob/main/.assets/FASTEK_LANDSCAPE.png" width="50%"><img src="https://github.com/fastekph/.github/blob/main/.assets/ONEPAY_LANDSCAPE.png" width="50%">
 
 FASTEK PAYMENT SOLUTIONS INC., was incorporated in January 2020. 
 
