@@ -4,7 +4,7 @@ We at Fastek, commits to providing payment solutions with an innovative approach
 
 Fastek adopts the [Fastek Open Source Code of Conduct]().
 
-## Get in touch!
+---
 
 Learn more about what we're offering at [fastek.com.ph](https://www.fastek.com.ph/).
 Interested in a career at Fastek? Check out our opportunities on [Fastek Careers](https://www.fastek.com.ph/careers/)!
