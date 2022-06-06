@@ -1,7 +1,3 @@
-<img src="https://github.com/fastekph/.github/blob/main/.assets/FASTEK_LANDSCAPE.png">
-
-<br>
-
 ## About Us
 
 <b>FASTEK PAYMENT SOLUTIONS INC.</b>, was incorporated in January 2020. 
