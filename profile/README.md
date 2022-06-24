@@ -1,4 +1,4 @@
-<img src="../.assets/header.png">
+<img src="https://github.com/fastekph/.github/blob/main/.assets/header.png">
 <br>
 <br>
 
@@ -15,4 +15,4 @@ Interested in a career at Fastek? Check out our opportunities on [Fastek Careers
 
 <br>
 <br>
-<img src="../.assets/footer-plain.png" height= "50%">
+<img src="https://github.com/fastekph/.github/blob/main/.assets/footer-plain.png">
