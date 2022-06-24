@@ -1,6 +1,4 @@
 <img src="https://github.com/fastekph/.github/blob/main/.assets/header.png">
-<br>
-<br>
 
 ## Get Involved
 
@@ -13,6 +11,4 @@ Fastek adopts the [Fastek Open Source Code of Conduct]().
 Learn more about what we're offering at [fastek.com.ph](https://www.fastek.com.ph/).
 Interested in a career at Fastek? Check out our opportunities on [Fastek Careers](https://www.fastek.com.ph/careers/)!
 
-<br>
-<br>
 <img src="https://github.com/fastekph/.github/blob/main/.assets/footer-plain.png">
